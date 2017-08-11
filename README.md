@@ -1,6 +1,5 @@
 # Classifying Images with Vision and Core ML
-
-Demonstrates using Vision with Core ML to preprocess images and perform image classification.
+Demonstrates using Vision with Core ML to preprocess images and perform image classification. Modified version of the Apple's demo App
 
 ## Overview
 
