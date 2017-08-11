@@ -6,9 +6,7 @@ Demonstrates using Vision with Core ML to preprocess images and perform image cl
 
 Among the many features of the Core ML framework is the ability to classify input data using a trained machine-learning model. The Vision framework works with Core ML to apply classification features to images, and to preprocess those images to make machine learning tasks easier and more reliable.
 
-This sample app uses a model based on the public MNIST database (a collection of handwriting samples) to identify handwritten digits found on rectangular objects in the image (such as sticky notes, as seen in the image below).
-
-![StickyNote](Documentation/StickyNote.jpg)
+This sample app uses a model based on the Char74k/MNIST databases (user can toggle) to identify handwritten digits found on rectangular objects in the image (such as sticky notes, as seen in the image below). If using the Char74k model (default), take a picture of printed characters very close up.
 
 ## Getting Started
 
